@@ -1,7 +1,7 @@
 variable "subscription_id" {
   description = "Azure subscription_id"
 }
-
+//
 variable "tenant_id" {
   description = "Azure tenant_id"
 }
